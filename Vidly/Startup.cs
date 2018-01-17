@@ -6,6 +6,7 @@ namespace Vidly
 {
     public partial class Startup
     {
+		//Test
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
